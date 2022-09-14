@@ -10,7 +10,7 @@ The website is simple and functional to use. At first, the entire table is displ
 
 Here is an example of a search filtered by “ca” as the state and “triangle” as the shape.
 
-
+![UFO filtered.png](https://github.com/noorsami12/UFOs/blob/2e45cb1ddba76c8332b75c562fc8da15a75c40ea/UFO%20filtered%20table.png)
 
 ## Summary
 
